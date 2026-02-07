@@ -17,7 +17,7 @@ This project automatically detects devices connected to a local network, identif
 
 ## How to Run
 ```bash
-git clone https://github.com/YOUR_USERNAME/network-access-monitor.git
-cd network-access-monitor
+git clone https://github.com/MohdRafeyUddin/netwok_scanner.git
+cd netwok_scanner
 chmod +x run.sh
 sudo ./run.sh
